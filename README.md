@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Niraj Chaudhary</h1>
-<h3 align="center">A Web developer and figma desinger from Nepal</h3>
+<h2 align="left">Hi 👋! My name is Niraj Chaudhary <br> I'm a Web developer and figma designer from  Nepal</h2>
+
+
+
+<br clear="both">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj0909&label=Profile%20views&color=0e75b6&style=flat" alt="niraj0909" /> </p>
 
